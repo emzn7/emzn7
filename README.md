@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @emzn7
+- 👀 I’m interested in everything DevOps & Cloud related
+- 🌱 I’m currently learning Linux, DevOps & AWS
+- 💞️ I’m looking to collaborate on EVERYTHING
